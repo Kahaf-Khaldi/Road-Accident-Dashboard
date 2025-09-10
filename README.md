@@ -69,6 +69,3 @@ This project demonstrates how Excel can be used effectively for **data analysis 
 The analysis can help **transport authorities and policymakers** focus on improving **road safety measures**, especially in **urban areas and single carriageway roads**.  
 
 ---
-
-
-## 📂 Repository Structure  
