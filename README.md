@@ -1,4 +1,4 @@
-#  Road Accident Dashboard  
+# Road Accident Dashboard  
 
 ## Project Overview  
 This project presents a **Road Accident Dashboard** created in **Excel** to analyze road accident data.  
@@ -44,12 +44,11 @@ It provides a **visual summary** to help understand accident patterns and suppor
 
 ## Dashboard Preview  
 ### Road Accident Dashboard  
-<img width="1758" height="848" alt="image" src="https://github.com/user-attachments/assets/aedb941f-7a82-49ab-9556-c8123a234db5" />
+<img width="1758" height="848" alt="Screenshot 2025-09-11 033352" src="https://github.com/user-attachments/assets/6dfc6226-4e60-453e-b08f-af26fd29cd9c" />
 
 
 ### Data Analysis Sheet  
-<img width="1874" height="787" alt="image" src="https://github.com/user-attachments/assets/4e81774a-66dc-4a96-ad16-22da7d7d96b6" />
-
+<img width="1874" height="787" alt="Screenshot 2025-09-11 033819" src="https://github.com/user-attachments/assets/0b652976-8d3a-438c-a1ca-fe89a83cce1b" />
 
 ---
 
@@ -60,7 +59,17 @@ It provides a **visual summary** to help understand accident patterns and suppor
 - **Daylight accidents** are higher compared to dark conditions.  
 - **Urban areas** see more casualties than rural.  
 - Accident numbers in **2022 decreased** compared to 2021.  
- 
+
+---
+
+## How to Use  
+1. Download the Excel file here: [📥 Road Accident Dashboard Excel File](https://drive.google.com/file/d/your-file-id/view?usp=sharing)  
+2. Open the file in Excel.  
+3. Navigate through different sheets:  
+   - **Data Analysis Sheet** → Pivot tables and data prep  
+   - **Dashboard** → Interactive visual dashboard  
+4. Use filters/slicers to explore data dynamically.  
+
 ---
 
 ## Conclusion  
@@ -69,3 +78,4 @@ This project demonstrates how Excel can be used effectively for **data analysis 
 The analysis can help **transport authorities and policymakers** focus on improving **road safety measures**, especially in **urban areas and single carriageway roads**.  
 
 ---
+
